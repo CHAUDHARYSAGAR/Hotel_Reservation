@@ -54,7 +54,7 @@ public class App {
                         scanner.close();
                         return;
                     default:
-                        System.out.println("Invalid choice. Try again.");
+                        System.out.println("wrong choice. Try again.");
                 }
             }
 
