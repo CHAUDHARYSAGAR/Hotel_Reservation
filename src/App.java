@@ -236,6 +236,6 @@ public class App {
             i--;
         }
         System.out.println();
-        System.out.println("ThankYou For Using Hotel Reservation System!!!");
+        System.out.println("ThankYou For Using Hotel_Reservation System!!!");
     }
 }
